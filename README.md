@@ -14,7 +14,6 @@ I have hands-on experince in **Data Visualization** and **Data Management** from
 - 💻 Created digital portfolio using HTML and CSS
 
 
-# Skills
 
 
 Thanks for stopping by! ✨  
